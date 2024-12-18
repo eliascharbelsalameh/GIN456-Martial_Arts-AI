@@ -1,0 +1,179 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.7.17 Chrome/128.0.6613.36 Electron/32.0.1 Safari/537.36" version="24.7.17">
+  <diagram name="Page-1" id="V3d487uO4Mszt1bsw1da">
+    <mxGraphModel dx="1744" dy="1176" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="S1SqBe4loHkWmH1O_gkl-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="S1SqBe4loHkWmH1O_gkl-1" target="S1SqBe4loHkWmH1O_gkl-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="S1SqBe4loHkWmH1O_gkl-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="S1SqBe4loHkWmH1O_gkl-1" target="S1SqBe4loHkWmH1O_gkl-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="281" y="168" />
+              <mxPoint x="281" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="S1SqBe4loHkWmH1O_gkl-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="S1SqBe4loHkWmH1O_gkl-1" target="S1SqBe4loHkWmH1O_gkl-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="281" y="168" />
+              <mxPoint x="281" y="409" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="S1SqBe4loHkWmH1O_gkl-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="S1SqBe4loHkWmH1O_gkl-1" target="S1SqBe4loHkWmH1O_gkl-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="S1SqBe4loHkWmH1O_gkl-1" value="Run Choregraph Script" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="122" y="138" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="S1SqBe4loHkWmH1O_gkl-3" value="Take Picture Logic" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="322" y="138" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="S1SqBe4loHkWmH1O_gkl-5" value="Store Pic in Directory" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="322" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="S1SqBe4loHkWmH1O_gkl-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="S1SqBe4loHkWmH1O_gkl-8" target="S1SqBe4loHkWmH1O_gkl-27">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="522" y="409" />
+              <mxPoint x="522" y="293" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="S1SqBe4loHkWmH1O_gkl-8" value="Toggle Flag in .txt" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="322" y="379" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="S1SqBe4loHkWmH1O_gkl-10" value="Py 2.7 script&amp;nbsp;&lt;div&gt;to write&amp;nbsp;&lt;/div&gt;&lt;div&gt;on tmp.txt&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=15.380929129464391;" vertex="1" parent="1">
+          <mxGeometry x="383" y="421" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="S1SqBe4loHkWmH1O_gkl-11" value="Function&amp;nbsp;&lt;div&gt;+&amp;nbsp;&lt;/div&gt;&lt;div&gt;animation&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="374" y="176" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="S1SqBe4loHkWmH1O_gkl-12" value="Run app.py on start" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="122" y="278" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="S1SqBe4loHkWmH1O_gkl-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="S1SqBe4loHkWmH1O_gkl-14" target="S1SqBe4loHkWmH1O_gkl-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="S1SqBe4loHkWmH1O_gkl-14" value="Py 3.7 app.py program" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="122" y="517" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="S1SqBe4loHkWmH1O_gkl-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="S1SqBe4loHkWmH1O_gkl-15" target="S1SqBe4loHkWmH1O_gkl-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="S1SqBe4loHkWmH1O_gkl-15" value="Listening on tmp.txt" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="322" y="517" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="S1SqBe4loHkWmH1O_gkl-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="S1SqBe4loHkWmH1O_gkl-15" target="S1SqBe4loHkWmH1O_gkl-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="382" y="488" />
+              <mxPoint x="373" y="488" />
+              <mxPoint x="373" y="464" />
+              <mxPoint x="382" y="464" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="S1SqBe4loHkWmH1O_gkl-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="S1SqBe4loHkWmH1O_gkl-18" target="S1SqBe4loHkWmH1O_gkl-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="S1SqBe4loHkWmH1O_gkl-18" value="onFlag&amp;nbsp;&lt;div&gt;True&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="506" y="507" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="S1SqBe4loHkWmH1O_gkl-20" value="listens to:" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="298" y="487" width="69" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="S1SqBe4loHkWmH1O_gkl-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="S1SqBe4loHkWmH1O_gkl-21" target="S1SqBe4loHkWmH1O_gkl-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="S1SqBe4loHkWmH1O_gkl-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="S1SqBe4loHkWmH1O_gkl-21" target="S1SqBe4loHkWmH1O_gkl-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="S1SqBe4loHkWmH1O_gkl-21" value="Triger SFTP class" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="676" y="517" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="S1SqBe4loHkWmH1O_gkl-23" value="high ^" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="601" y="521" width="50" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="S1SqBe4loHkWmH1O_gkl-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="S1SqBe4loHkWmH1O_gkl-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1056.6666782924108" y="366.38092912946433" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="S1SqBe4loHkWmH1O_gkl-24" value="RES&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;write&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="784" y="394" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="S1SqBe4loHkWmH1O_gkl-26" value="break" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="736" y="459" width="48" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="S1SqBe4loHkWmH1O_gkl-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="S1SqBe4loHkWmH1O_gkl-27" target="S1SqBe4loHkWmH1O_gkl-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="S1SqBe4loHkWmH1O_gkl-27" value="timer X secs to toggle flag false&lt;div&gt;~ after pic, animation, message, 10s in Choregroph to RESET the FLAG tmp.txt&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="569" y="263" width="221" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="S1SqBe4loHkWmH1O_gkl-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="S1SqBe4loHkWmH1O_gkl-32" target="S1SqBe4loHkWmH1O_gkl-36">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="987" y="248" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="S1SqBe4loHkWmH1O_gkl-32" value="box script in Choregraph" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="920.5" y="263" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="S1SqBe4loHkWmH1O_gkl-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="S1SqBe4loHkWmH1O_gkl-32" target="S1SqBe4loHkWmH1O_gkl-32">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="981" y="341" />
+              <mxPoint x="1061" y="341" />
+              <mxPoint x="1061" y="293" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="S1SqBe4loHkWmH1O_gkl-35" value="loop if empty" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="958" y="344" width="86" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="S1SqBe4loHkWmH1O_gkl-36" value="on data continue&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Choregraph?&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1198" y="217" width="120" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="S1SqBe4loHkWmH1O_gkl-38" value="not empty =&amp;gt; continue + re-init ~ clear" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="971" y="225" width="220" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="S1SqBe4loHkWmH1O_gkl-40" value="+ delay after it to buffer" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="311.5" y="577" width="141" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="S1SqBe4loHkWmH1O_gkl-41" value=".jpg download&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;read&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="876" y="517" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="S1SqBe4loHkWmH1O_gkl-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="S1SqBe4loHkWmH1O_gkl-43" target="S1SqBe4loHkWmH1O_gkl-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="S1SqBe4loHkWmH1O_gkl-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1057.047642299107" y="366.47617885044644" as="targetPoint" />
+            <mxPoint x="1135" y="536" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="S1SqBe4loHkWmH1O_gkl-43" value="Process ML stance.py" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="1135" y="504" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="S1SqBe4loHkWmH1O_gkl-44" value="has function&lt;div&gt;&amp;nbsp;in py 3.7 to call ~cmd~ the app.py code to restart&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="1225" y="527" width="179" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="S1SqBe4loHkWmH1O_gkl-45" value="pic" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1055" y="623" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="S1SqBe4loHkWmH1O_gkl-47" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.097;entryY=0.259;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;dashPattern=8 8;shape=link;" edge="1" parent="1" source="S1SqBe4loHkWmH1O_gkl-41" target="S1SqBe4loHkWmH1O_gkl-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="S1SqBe4loHkWmH1O_gkl-50" value="add class&lt;div&gt;create files .txt locally on /home/nao/karate/&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="183" y="744" width="249" height="41" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
